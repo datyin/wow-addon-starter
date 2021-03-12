@@ -1,0 +1,4 @@
+<Ui xmlns='http://www.blizzard.com/wow/ui/'>
+    <Script file="Settings\DataBase.lua"/>
+    <Script file="Settings\Options.lua"/>
+</Ui>

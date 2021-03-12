@@ -1,0 +1,12 @@
+## Interface: 90005
+## Author: Tyin
+## Version: 1.0.0
+## Title: |cff1784d1Tyin|r AddonStarter
+## Notes: Just some things
+## SavedVariables: TyinAddonStarterDB
+## OptionalDeps: SharedMedia
+
+Libraries/Load.xml
+Locales/Load.xml
+Main.lua
+Settings/Load.xml
